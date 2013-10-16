@@ -12,6 +12,13 @@
     <artifactId>jsContact-application</artifactId>
 
     <dependencies>
+
+        <dependency>
+            <artifactId>jsContact-webservice</artifactId>
+            <groupId>jsContact-parent</groupId>
+            <version>${project.version}</version>
+        </dependency>
+
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
