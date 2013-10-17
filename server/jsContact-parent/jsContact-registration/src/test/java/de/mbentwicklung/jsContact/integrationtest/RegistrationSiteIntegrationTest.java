@@ -1,4 +1,4 @@
-package de.mbentwicktung.jsContact.integrationtest;
+package de.mbentwicklung.jsContact.integrationtest;
 
 import de.mbentwicklung.jsContact.controller.RegistrationSiteController;
 import de.mbentwicklung.jsContact.domain.Contact;
