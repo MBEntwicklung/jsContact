@@ -12,6 +12,9 @@
         <module>jsContact-webservice</module>
         <module>jsContact-mailer</module>
         <module>jsContact-application</module>
+        <module>jsContact-servlet</module>
+        <module>jsContact-registration</module>
+        <module>jsContact-domain</module>
     </modules>
 
     <properties>
