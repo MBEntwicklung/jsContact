@@ -31,6 +31,9 @@ public class ContactRegistrationIntegrationTest {
 
     @Test
     public void assertRegisterContact() throws Exception {
-        assertThat(this.contactRegistrationService.register(DEFAULT_CONTACT), is(true));
+
+        boolean result = this.contactRegistrationService.register(DEFAULT_CONTACT);
+
+        assertThat(result, is(true));
     }
 }
