@@ -15,6 +15,7 @@
         <module>jsContact-servlet</module>
         <module>jsContact-registration</module>
         <module>jsContact-domain</module>
+        <module>jsContact-jetty</module>
     </modules>
 
     <properties>
